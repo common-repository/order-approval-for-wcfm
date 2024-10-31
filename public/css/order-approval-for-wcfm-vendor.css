@@ -1,0 +1,14 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ .wcfm-action-icon.sgits-oawcfm.approve:not(:hover) {
+    color: #fff;
+    background: #000;
+}
+
+.wcfm-action-icon.sgits-oawcfm.reject:not(:hover) {
+    color: #fff;
+    background: red;
+}

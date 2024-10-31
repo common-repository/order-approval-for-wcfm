@@ -1,0 +1,37 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Order approval for WCFM\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-05-08 06:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.2.1-alpha-55722\n"
+"X-Domain: order-approval-for-wcfm"
+
+#. Name of the plugin
+msgid "Order approval for WCFM"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Order Approval for WCFM plugin allows wcfm market place vendors to approve "
+"or reject the orders placed by customers before payment is processed."
+msgstr ""
+
+#. Author of the plugin
+msgid "Sevengits"
+msgstr ""
+
+#: order-approval-for-wcfm.php:79
+msgid ""
+"The following plugins are required for <b>Order Approval for WCFM</b> plugin "
+"to work. Please ensure that they are activated: "
+msgstr ""
